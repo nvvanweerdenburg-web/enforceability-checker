@@ -1,0 +1,14 @@
+.venv/
+.env
+.env.local
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+data/embeddings.npy
+data/chunks.json
+.uvicorn.pid
